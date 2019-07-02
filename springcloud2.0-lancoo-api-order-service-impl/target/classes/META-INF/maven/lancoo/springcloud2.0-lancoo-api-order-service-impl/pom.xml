@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>lancoo</groupId>
+    <artifactId>springcloud2.0-lancoo-parents</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>springcloud2.0-lancoo-api-order-service-impl</artifactId>
+  <dependencies>
+  	<!-- order接口项目 -->
+  	<dependency>
+  		 <groupId>lancoo</groupId>
+	     <artifactId>springcloud2.0-lancoo-api-order-service</artifactId>
+	     <version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<!-- 引入member接口项目 -->
+  	<dependency>
+  		 <groupId>lancoo</groupId>
+	     <artifactId>springcloud2.0-lancoo-api-member-service</artifactId>
+	     <version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
+</project>

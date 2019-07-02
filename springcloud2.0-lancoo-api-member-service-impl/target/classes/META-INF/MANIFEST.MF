@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springcloud2.0-lancoo-api-member-service-impl
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lancoo
+Implementation-Vendor-Id: lancoo
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springcloud2.0-lancoo-parents/springcloud2.0-lancoo
+ -api-member-service-impl
+Created-By: Maven Integration for Eclipse
+
